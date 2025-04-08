@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1744129045 source:c:\users\pc\documents\prototipop12p2025\prototipop12p2025\programa segundo parcial\main.cpp
+	<iostream>
+	"Industria.h"
+
+1744129045 c:\users\pc\documents\prototipop12p2025\prototipop12p2025\programa segundo parcial\include\industria.h
+	<string>
+

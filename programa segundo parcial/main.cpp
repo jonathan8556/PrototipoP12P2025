@@ -1,9 +1,10 @@
 #include <iostream>
+#include "Industria.h"
 
-using namespace std;
+int main() {
+    Industria industrias[3] = {
+        Industria("Camara de Industria"),
+        Industria("Camara de la Construccion"),
+        Industria("Camara de Transporte")
+    };
 
-int main()
-{
-    cout << "Hello world!" << endl;
-    return 0;
-}

@@ -1,16 +1,27 @@
 #ifndef INDUSTRIA_H
 #define INDUSTRIA_H
 
+#include <string>
 
-class Industria
-{
-    public:
-        Industria();
-        virtual ~Industria();
+class Industria {
+private:
+    std::string nombre;
+    float ventas[5][4]; // 5 empresas x 4 años (2015-2018)
+    float maxVenta;
+    float minVenta;
+    float promedioVenta;
 
-    protected:
+public:
+    Industria(std::string nombre); // Constructor
+    void generarVentasAleatorias();
+    void calcularEstadisticas();
+    void mostrarDetalles();
 
-    private:
+    // Getters
+    std::string getNombre();
+    float getMaxVenta();
+    float getMinVenta();
+    float getPromedioVenta();
 };
 
-#endif // INDUSTRIA_H
+#endif
