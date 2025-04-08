@@ -29,4 +29,14 @@ int main() {
                 indiceMejor = i;
             }
         }
+         //Mensaje de mejor industria mostrada al usuario
+        std::cout << "\nLa mejor industria es: " << industrias[indiceMejor].getNombre()
+                  << " con un promedio de Q" << industrias[indiceMejor].getPromedioVenta() << "\n";
 
+        // Preguntar si desea repetir al usuario
+        std::cout << "\nDesea repetir el proceso? (s/n): ";
+        std::cin >> opcion;
+    } while (opcion == 's' || opcion == 'S');
+
+    return 0;
+}

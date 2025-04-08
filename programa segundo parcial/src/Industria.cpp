@@ -1,3 +1,4 @@
+//Jonathan Samuel Gonzalez 9959-23-3184
 #include "Industria.h"
 #include <iostream>
 #include <cstdlib>
@@ -14,7 +15,7 @@ void Industria::generarVentasAleatorias() {
             ventas[i][j] = rand() % 1000000 + 1; // Monto entre 1 y 1,000,000
         }
     }
-    calcularEstadisticas();
+    calcularEstadisticas(); //metodo calculadora de la estadistica
 }
 
 void Industria::calcularEstadisticas() {
