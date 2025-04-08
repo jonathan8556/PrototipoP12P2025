@@ -1,3 +1,4 @@
+//Jonathan samuel GOnzalez 9959-23-3184
 #ifndef INDUSTRIA_H
 #define INDUSTRIA_H
 
