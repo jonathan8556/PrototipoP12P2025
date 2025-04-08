@@ -1,0 +1,41 @@
+[33mcommit 28313d2445536602eecdd61a342ae182c584f782[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jonathan Samuel Gonzalez <jgonzalezi7@miumg.edu.gt>
+Date:   Tue Apr 8 10:45:42 2025 -0600
+
+    actualizacion main
+
+[33mcommit a3a12acc31d1f1c163a59e2a794a284434782611[m
+Author: Jonathan Samuel Gonzalez <jgonzalezi7@miumg.edu.gt>
+Date:   Tue Apr 8 10:41:37 2025 -0600
+
+    Actualizacion en el main
+
+[33mcommit 464ffeb7dac81bb3ec55ed5391e6136fbc6eb696[m
+Author: Jonathan Samuel Gonzalez <jgonzalezi7@miumg.edu.gt>
+Date:   Tue Apr 8 10:29:50 2025 -0600
+
+    actualizacion en Industria.cpp
+
+[33mcommit ccdcee23ee11f540650c21a4301900dc3fc77369[m
+Author: Jonathan Samuel Gonzalez <jgonzalezi7@miumg.edu.gt>
+Date:   Tue Apr 8 10:24:17 2025 -0600
+
+    actualizacion de Industial.h
+
+[33mcommit 107dfeeb0c0e0d3bbacda0a8f9ac56fde80018c8[m
+Author: Jonathan Samuel Gonzalez <jgonzalezi7@miumg.edu.gt>
+Date:   Tue Apr 8 10:15:35 2025 -0600
+
+    creacion de clase Industria
+
+[33mcommit b2eb41de12b4b1f6090ff48ccc9c02fde2af6897[m
+Author: Jonathan Samuel Gonzalez <jgonzalezi7@miumg.edu.gt>
+Date:   Tue Apr 8 10:13:43 2025 -0600
+
+    creacion del main
+
+[33mcommit 0a13d4f6e5cc6226ec7f2da7d285952c226754ea[m
+Author: Jonathan González <157381160+jonathan8556@users.noreply.github.com>
+Date:   Tue Apr 8 10:03:48 2025 -0600
+
+    Initial commit
